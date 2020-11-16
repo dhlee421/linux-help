@@ -13,6 +13,7 @@ https://kabkee.github.io/mysql/mysql-full-text-search/
 
  참조
  http://www.hackingwithphp.com/9/3/18/advanced-text-searching-using-full-text-indexes
+ 
  https://www.w3resource.com/mysql/mysql-full-text-search-functions.php
  
 FULLTEXT 검색 방식
