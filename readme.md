@@ -3,16 +3,14 @@ https://kabkee.github.io/mysql/mysql-full-text-search/
 
 **설정**
 >$ sduo vi /etc/mysql/mysql.conf.d/mysqld.cnf
-
->[mysqld]
-
->ft_min_word_len = 2
-
->innodb_ft_min_token_size = 2
+```
+[mysqld]
+ft_min_word_len = 2
+innodb_ft_min_token_size = 2
 
 최소 인덱싱 글자수 확인
 >show variables like 'ft_min%'
-
+```
 
  **참조**
  
